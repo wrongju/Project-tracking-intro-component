@@ -145,11 +145,11 @@ body {
   color: rgba(0, 0, 0, 0.536);
 }
 .main-inner__powerful {
-  font-size: 55.5px;
   margin-top: 21px;
 }
 .main-inner__powerful .powerful-title {
   line-height: 5rem;
+  font-size: 80px;
 }
 .main-inner__paragraph {
   font-size: 23.5px;
@@ -188,8 +188,8 @@ body {
   .title-black {
     font-size: 5px;
   }
-  .main-inner__powerful {
-    font-size: 42px;
+  .main-inner__powerful .powerful-title {
+    font-size: 65px;
   }
   .main-inner__button {
     margin-top: 40px;
@@ -219,8 +219,8 @@ body {
   .header-inner {
     align-self: center;
   }
-  .main-inner__powerful {
-    font-size: 35px;
+  .main-inner__powerful .powerful-title {
+    font-size: 55px;
   }
   .main {
     background-position: center top;
@@ -298,6 +298,7 @@ body {
   }
   .main-inner__powerful .powerful-title {
     line-height: 3.4rem;
+    font-size: 45px;
   }
   .main-inner__button {
     margin-top: 30px;
